@@ -1,0 +1,12 @@
+[package]
+name = "testing"
+version = "0.1.0"
+authors = ["Knut Andre Grytting Prestsveen <kaprests@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ndarray = "0.13.0"
+ndarray-linalg = "0.12.0"
+ndarray-rand = "0.11.0"
